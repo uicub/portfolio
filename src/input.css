@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    font-size: 2rem;
+    line-height: 2.438rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+    line-height: 1.805rem;
+  }
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .number-xl {
+    font-size: 7.313rem;
+    line-height: 8.75rem;
+  }
+  .hero-p {
+    font-size: 1.125rem;
+    line-height: 1.688rem;
+  }
+}
